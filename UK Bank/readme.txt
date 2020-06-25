@@ -1,1 +1,1 @@
-Dash board for customer segmentation
+Dash board for customer segmentation using Tableau
